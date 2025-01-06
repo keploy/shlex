@@ -1,3 +1,3 @@
-module github.com/google/shlex
+module github.com/keploy/shlex
 
-go 1.13
+go 1.23
